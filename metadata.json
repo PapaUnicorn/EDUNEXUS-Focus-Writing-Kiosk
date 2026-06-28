@@ -1,0 +1,6 @@
+{
+  "name": "EDUNEXUS Focus Writing Kiosk",
+  "description": "A distraction-free writing environment with timers, word target goals, and restricted copy-paste to foster original typing and direct academic writing skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
